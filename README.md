@@ -30,7 +30,7 @@ An automated **Exploratory Data Analysis (EDA)** notebook built using Python tha
 
 ---
 
-##📊 Workflow
+## 📊 Workflow
 
 - Load Dataset
 - Basic Information
@@ -39,14 +39,18 @@ An automated **Exploratory Data Analysis (EDA)** notebook built using Python tha
 - Univariate Analysis
 - Outlier Detection
 
-##📸 Sample Outputs
+---
+
+## 📸 Sample Outputs
 
 - Missing Value Matrix
 - Histograms
 - Bar Charts
 - Boxplots
-  
-##🎯 Use Cases
+
+---
+
+## 🎯 Use Cases
 
 - Beginner-friendly data analysis
 - Preprocessing before Machine Learning
