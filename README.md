@@ -1,58 +1,54 @@
-📊 Auto EDA (Exploratory Data Analysis) Tool
+# 📊 Auto EDA (Exploratory Data Analysis) Tool
 
-An automated Exploratory Data Analysis (EDA) notebook built using Python that cleans datasets, analyzes data, and generates visual insights with minimal user effort.
+An automated **Exploratory Data Analysis (EDA)** notebook built using Python that simplifies data understanding, cleaning, and visualization with minimal effort.
 
-🚀 Features
+---
 
-📂 Load any CSV dataset بسهولة
+## 🚀 Features
 
-🧹 Automatic data cleaning:
-Removes duplicates
-Handles missing values (median for numeric, mode for categorical)
-📊 Statistical summaries for numeric & categorical data
+- 📂 Load any CSV dataset easily
+- 🧹 Automatic data cleaning:
+  - Removes duplicates
+  - Handles missing values (median for numeric, mode for categorical)
+- 📊 Generates statistical summaries
+- 📈 Univariate analysis:
+  - Histograms for numeric features
+  - Bar plots for categorical features
+- ⚠️ Detects outliers using boxplots
+- 🔍 Visualizes missing data using `missingno`
 
-📈 Univariate analysis:
-Histograms for numeric features
-Bar plots for categorical features
-⚠️ Outlier detection using boxplots
-🔍 Missing value visualization using missingno
+---
 
-🛠️ Tech Stack
-Python 🐍
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Missingno
+## 🛠️ Tech Stack
 
-📁 Project Structure
-Auto-EDA/
-│── new_auto_eda.ipynb   # Main notebook
-│── README.md            # Project documentation
-⚙️ Installation
+- Python 🐍
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Missingno
 
-📊 Workflow
-Load Dataset
-Basic Information
-Data Cleaning
-Statistical Summary
-Univariate Analysis
-Outlier Detection
+---
 
-📸 Sample Outputs
-Missing Value Matrix
-Histograms of numeric columns
-Bar charts for categorical columns
-Boxplots for outlier detection
+##📊 Workflow
 
-🎯 Use Cases
-Quick data understanding for beginners
-Preprocessing before Machine Learning
-Data Science projects & internships
-Academic assignments
+- Load Dataset
+- Basic Information
+- Data Cleaning
+- Statistical Summary
+- Univariate Analysis
+- Outlier Detection
 
-🔮 Future Improvements
-Add correlation heatmaps
-Feature importance detection
-Automated report generation (PDF/HTML)
-Support for Excel & JSON files
+##📸 Sample Outputs
+
+- Missing Value Matrix
+- Histograms
+- Bar Charts
+- Boxplots
+  
+##🎯 Use Cases
+
+- Beginner-friendly data analysis
+- Preprocessing before Machine Learning
+- Internship & portfolio projects
+- Academic assignments
